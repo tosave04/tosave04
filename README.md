@@ -8,7 +8,7 @@ Back : Linux (Debian) / Apache / MySQL / PHP 7 / Laravel 8 / Slim 4
 
 Front : React / Jquery / MUI / Bootstrap
 
-### Expériences
+### Expériences Pro
 
 - [x] Site e-commerce (PHP, Jquery, SQL)
 - [x] Site vitrine (Bootstrap)
@@ -56,7 +56,19 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***) 
 
 **Culture Japonaise** que ce soit pour les coutumes, les mangas ou l'art culinaire 🍣
 
+### Autres expériences
 
+- [x] Gestion d'appel d'offres en maçonnerie générale (5 ans)
+- [x] Autoconstruction : Isolation, ITE, Second oeuvre, Façadière (2 ans)
+- [x] Aide à la gestion d'une boutique associative Bio (Bénévolat, depuis 2010)
+
+### Études
+
+- [x] BAC S
+- [x] DEUG MASS (Marseille) (Informatique, Maths, Maths ..., Maths 😵)
+- [x] DUT GACo (Digne-les-Bains) Gestion administrative et commerciale
+- [x] Internet, groupes de travail, forums, l'expérience, la passion 🤩 !
+- [x] Bootcamp Mike Codeur
 
 <!--
 **tosave04/tosave04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
