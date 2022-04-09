@@ -42,6 +42,20 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***) 
 - [ ] PHP 8 👨‍🎓 upgrading ...
 - [ ] React Native
 - [ ] Rust
+- [ ] Python
+
+### Ce qui m'intéresse
+
+**Blockchain** et toutes les technologies qui en découlent, partage de données, cryptomonnaies, IFPS, DéFi ...
+
+**Algorithmique** et logique appliquée, relever des défis, quel que soit le langage de programmation ou le contexte.
+
+**Jeux de société** en tous genres. J'aime le relationnel, la stratégie et la réflexion que ça implique.
+
+**IA** et **Machine Learning** pour la compréhension de ce qui se développe actuellement à grande échelle, et parce que le sujet est passionnant !
+
+**Culture Japonaise** que ce soit pour les coutumes, les mangas ou l'art culinaire 🍣
+
 
 
 <!--
