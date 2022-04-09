@@ -10,13 +10,13 @@ Front : React / Jquery / MUI / Bootstrap
 
 ### Expériences Pro
 
-- [x] Site e-commerce (PHP, Jquery, SQL)
-- [x] Site vitrine (Bootstrap)
-- [x] App Web (React, MUI)
-- [x] Gestion de serveurs (LAMP, Node)
-- [x] Logiciel métier en Back / Outils de gestion (PHP, Laravel)
-- [x] API Métier (PHP, Slim, REST)
-- [x] Dashboard (React, API)
+- [x] Site e-commerce (**PHP**, **Jquery**, **SQL**)
+- [x] Site vitrine (**Bootstrap**)
+- [x] App Web (**React**, **MUI**)
+- [x] Gestion de serveurs (**LAMP**, **Node**)
+- [x] Logiciel métier en Back / Outils de gestion (PHP, **Laravel**)
+- [x] API Métier (PHP, **Slim**, **REST**)
+- [x] Dashboard (React, **API**)
 - [x] Campagnes Google Ads (Gestion, Intégration, Analytics)
 - [x] Programmation Robot ABB soudure et manutention (IRC5, RAPID)
 
@@ -38,8 +38,8 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***) 
 
 ### Learning
 
-- [x] React 17
-- [ ] PHP 8 👨‍🎓 upgrading ...
+- [x] React 17 👨‍🎓 in progress ...
+- [x] PHP 8 👨‍🎓 upgrading ...
 - [ ] React Native
 - [ ] Rust
 - [ ] Python
@@ -68,7 +68,7 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***) 
 - [x] DEUG MASS (Marseille) (Informatique, Maths, Maths ..., Maths 😵)
 - [x] DUT GACo (Digne-les-Bains) Gestion administrative et commerciale
 - [x] Internet, groupes de travail, forums, l'expérience, la passion 🤩 !
-- [x] Bootcamp Mike Codeur
+- [ ] Bootcamp Mike Codeur 👨‍🎓 in progress ...
 
 <!--
 **tosave04/tosave04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
