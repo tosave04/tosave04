@@ -10,13 +10,13 @@ Front : React / Jquery / MUI / Bootstrap
 
 ### Expériences Pro
 
-- [x] Site e-commerce (**PHP**, **Jquery**, **SQL**)
-- [x] Site vitrine (**Bootstrap**)
+- [x] Sites e-commerce (**PHP**, **Jquery**, **SQL**)
+- [x] Sites vitrines (**Bootstrap**)
 - [x] App Web (**React**, **MUI**)
 - [x] Gestion de serveurs (**LAMP**, **Node**)
-- [x] Logiciel métier en Back / Outils de gestion (PHP, **Laravel**)
-- [x] API Métier (PHP, **Slim**, **REST**)
-- [x] Dashboard (React, **API**)
+- [x] Logiciels métiers en Back / Outils de gestion (PHP, **Laravel**)
+- [x] API Métiers (PHP, **Slim**, **REST**)
+- [x] Dashboards (React, **API**)
 - [x] Campagnes Google Ads (Gestion, Intégration, Analytics)
 - [x] Programmation Robot ABB soudure et manutention (IRC5, RAPID)
 
@@ -36,10 +36,10 @@ Nouvelle version React en cours de développement.
 
 Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***) `paaaaas biennnn`. Néanmoins expérience fort intéressante avec travail en équipe bénévole jusqu'à 20 personnes. Site, IRC, Forum, 7000+ visites journalières à gérer.
 
-### Learning
+### Learning tree
 
-- [x] React 17 👨‍🎓 in progress ...
-- [x] PHP 8 👨‍🎓 upgrading ...
+- [x] React 17 👨‍🎓 upgrading 17 => 18 ...
+- [x] PHP 8 👨‍🎓 upgrading 7 => 8 ...
 - [ ] React Native
 - [ ] Rust
 - [ ] Python
