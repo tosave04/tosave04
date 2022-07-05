@@ -38,8 +38,6 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***) 
 
 ### Learning tree
 
-- [x] React 17 👨‍🎓 upgrading 17 => 18 ...
-- [x] PHP 8 👨‍🎓 upgrading 7 => 8 ...
 - [ ] React Native
 - [ ] Rust
 - [ ] Python
