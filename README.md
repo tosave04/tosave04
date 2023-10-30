@@ -4,14 +4,14 @@ Thomas,
 
 Développeur Full-stack Freelance depuis 2013 et en amateur depuis 2002 (début sur PHP3).
 
-Back : LAMP / Laravel / Slim / Node / NextJS / Server & Serverless
+Back : Node / NextJS / LAMP / Laravel / Slim / Server & Serverless
 
-Front : React / Typescript / Jquery / TailwindCSS / MUI / Bootstrap
+Front : React / Typescript / TailwindCSS / Jquery / MUI / Bootstrap ...
 
 ### Expériences Pro
 
-- [x] Sites e-commerce (**PHP**, **Jquery**, **SQL** && **NextJS**)
-- [x] Sites vitrines (**Laravel**, **Bootstrap**)
+- [x] Sites e-commerce (**NextJS**, **PHP/SQL**)
+- [x] Sites vitrines (**Laravel**, **Bootstrap**, **Jquery**)
 - [x] App Web (**React**, **MUI**)
 - [x] Gestion de serveurs (**LAMP**, **Node**)
 - [x] Logiciels métiers en Back / Outils de gestion (PHP, Laravel)
@@ -22,15 +22,15 @@ Front : React / Typescript / Jquery / TailwindCSS / MUI / Bootstrap
 
 ### Quelques projets Front
 
-[Rideau Profilage](https://www.rideauprofilage.com/) (2021 Pro) Bootstrap 5
-
-Site vitrine simple développé sur une base de Laravel / Blade / Bootstrap 5
-
 [Fermeture-Garage](https://www.fermeturegarage.com/) (2013 Pro) PHP 5 / SQL
 
 Site e-commerce spécialisé dans la Fermeture métallique sur mesure, le défi : gérer une multitude de paramêtres en Back pour sortir un produit sur mesure au client (prix, caractéristiques, respect des normes, plan de fabrication).
 
-Nouvelle version React / NextJS 13 (beta) en cours de développement.
+Développé sur **NextJS 14**.
+
+[Rideau Profilage](https://www.rideauprofilage.com/) (2021 Pro) Bootstrap 5
+
+Site vitrine simple développé sur une base de Laravel / Blade / Bootstrap 5
 
 [Fun-Center v6](https://web.archive.org/web/20210306145102/https://fun-center.fr/) (2003-2017 Amateur) PHP 5 / SQL / Jquery
 
@@ -40,7 +40,7 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***).
 
 - [ ] React Native
 - [ ] Rust
-- [ ] Python
+- [ ] Python (en cours avec les IA, Hugging Face, transformers, etc...)
 
 ### Ce qui m'intéresse
 
