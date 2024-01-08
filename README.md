@@ -22,9 +22,9 @@ Front : React / Typescript / TailwindCSS / Jquery / MUI / Bootstrap ...
 
 ### Quelques projets Front
 
-[Fermeture-Garage](https://www.fermeturegarage.com/) (2013 Pro) PHP 5 / SQL
+[Fermeture-Garage](https://www.fermeturegarage.com/) (2013 Pro) NextJS 14 (ancienne version sur PHP 5 / SQL)
 
-Site e-commerce spécialisé dans la Fermeture métallique sur mesure, le défi : gérer une multitude de paramêtres en Back pour sortir un produit sur mesure au client (prix, caractéristiques, respect des normes, plan de fabrication).
+Site e-commerce spécialisé dans la Fermeture métallique sur mesure, le défi : gérer une multitude de paramêtres en Back pour sortir un produit sur mesure au client (prix, caractéristiques, abaques, respect des normes, plan de fabrication).
 
 Développé sur **NextJS 14**.
 
@@ -44,13 +44,13 @@ Site amateur non lucratif à l'époque de l'insouciance (scantrad ... émul***).
 
 ### Ce qui m'intéresse
 
-**Blockchain** et toutes les technologies qui en découlent, partage de données, cryptomonnaies, IFPS, DéFi ...
-
 **Algorithmique** et logique appliquée, relever des défis, quel que soit le langage de programmation ou le contexte.
 
 **Jeux de société** en tous genres. J'aime le relationnel, la stratégie et la réflexion que ça implique.
 
 **IA** et **Machine Learning** pour la compréhension de ce qui se développe actuellement à grande échelle, et parce que le sujet est passionnant !
+
+**Blockchain** et toutes les technologies qui en découlent, partage de données, cryptomonnaies, IFPS, DéFi ...
 
 **Culture Japonaise** que ce soit pour les coutumes, les mangas ou l'art culinaire 🍣
 
